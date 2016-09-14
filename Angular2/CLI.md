@@ -1,6 +1,6 @@
 # CLI
 
-- [Angular CLI on github](https://github.com/angular/angular-cli)
+- [Angular CLI on github](https://github.com/angular/angular-cli) | [Current Version](https://github.com/angular/angular-cli/blob/master/package.json)
 - [Angular CLI home](https://cli.angular.io/)
 - [ng-conf CLI video](https://www.youtube.com/watch?v=wHZe6gGI5RY)
 - [Simple App with CLI video](https://www.youtube.com/watch?v=QMQbAoTLJX8)
