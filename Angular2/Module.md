@@ -14,8 +14,3 @@
 - *imports* - other modules whose exported classes are needed by component templates declared in this module.
 - *providers* - creators of services that this module contributes to the global collection of services; they become accessible in all parts of the app.
 - *bootstrap* - the main application view, called the root component, that hosts all other app views. Only the root module should set this bootstrap property.
-
-- `@NgModule` 
-  - `declarations` - defines the components in this module
-  - `imports` - describes which dependencies this module has
-  - `bootstrap` - when this modules is used, bootstrap an app with HelloWorld as the top-level component
