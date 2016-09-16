@@ -26,9 +26,9 @@
 > npm update
 ```
 
-### Start webserver
+### Start webserver in base angular app
 
 ```
-> npm run serve
+> npm start
 ```
 
