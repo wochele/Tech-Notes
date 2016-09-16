@@ -3,6 +3,7 @@
 - Teach the browser new tags that have new functionality
 - Every app has at least one component, the root component. They are the basic building blocks of applications.
 - Controls a portion of the screen, a view, through it's associated template
+- You define a component's application logic—what it does to support the view—inside a class. The class interacts with the view through an API of properties and methods.
 
 A basic component has 2 parts
 
