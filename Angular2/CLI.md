@@ -11,6 +11,12 @@ Install CLI global
 > npm install angular-cli -g
 ```
 
+Get current version
+
+```
+> ng --version
+```
+
 Create a project
 
 ```
