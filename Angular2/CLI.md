@@ -40,4 +40,6 @@ CLI can ...
 > ng generate service my-service
 > ng generate route my-route
 > ng generate class my-class [class-suffix]
+> ng generate interface my-new-interface
+> ng generate enum my-new-enum
 ```
