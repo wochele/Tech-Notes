@@ -10,6 +10,7 @@ A basic component has 2 parts
 1. A `Component` annotation
 2. A component definition class
 
+- `selector` and `template`/`templateUrl` are mandatory properties
 - Annotations start with `@` and create an annotations array. They add metadata to the class immediately following it.
 - When I annotate a class (really just a newable function), the compiler creates an attribute on that class called "annotations", stores an array in it, then tries to instantiate an object with the same name as the annotation, passing the metadata into the constructor. The annotated object can then make any use of this 'annotations' array that it likes.
 
