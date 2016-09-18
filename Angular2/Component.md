@@ -39,7 +39,8 @@ platformBrowserDynamic().bootstrapModule(HelloWorldAppModule);
 
 ```
 
-- `@NgModule` 
-  - `declarations` - defines the components in this module
-  - `imports` - describes which dependencies this module has
-  - `bootstrap` - when this modules is used, bootstrap an app with HelloWorld as the top-level component
+- Typical `@Component` configuration options:
+- *selector* - CSS selector that tells Angular to create and insert an instance of this component where it finds a <selector_name> tag in parent HTML. 
+- *templateUrl* - address of this component's HTML template
+- *directives* - array of the components or directives that this template requires. 
+- *providers* - array of dependency injection providers for services that the component requires. 
