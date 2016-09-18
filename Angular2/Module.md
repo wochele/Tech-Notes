@@ -1,5 +1,7 @@
 # Modules (NgModules)
 
+- Boxing components and services
+
 - [Module plunkr](https://angular.io/resources/live-examples/ngmodule/ts/plnkr.html)
 - [Modules In Depth](https://angular.io/docs/ts/latest/guide/ngmodule.html)
 
