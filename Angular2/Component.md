@@ -5,6 +5,8 @@
 - Every app has at least one component, the root component. They are the basic building blocks of applications.
 - Controls a portion of the screen, a view, through it's associated template
 - You define a component's application logic—what it does to support the view—inside a class. The class interacts with the view through an API of properties and methods.
+- Component classes should be lean. They don't fetch data from the server, validate user input, or log directly to the console. They delegate such tasks to services.
+- A component's job is to enable the user experience and nothing more. It mediates between the view (rendered by the template) and the application logic (which often includes some notion of a model). A good component presents properties and methods for data binding. It delegates everything nontrivial to services.
 
 A basic component has 2 parts
 
