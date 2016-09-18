@@ -8,3 +8,7 @@ dependencies are services. Angular uses dependency injection to provide new comp
 instance is not in the container, the injector makes one and adds it to the container before returning the service to 
 Angular. When all requested services have been resolved and returned, Angular can call the component's constructor with 
 those services as arguments. This is dependency injection.
+- Dependency injection is wired into the Angular framework and used everywhere.
+- The injector is the main mechanism.
+  - An injector maintains a container of service instances that it created.
+  - An injector can create a new service instance from a provider.
