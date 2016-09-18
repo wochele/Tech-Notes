@@ -1,5 +1,6 @@
 # Components
 
+- Manage templates
 - Teach the browser new tags that have new functionality
 - Every app has at least one component, the root component. They are the basic building blocks of applications.
 - Controls a portion of the screen, a view, through it's associated template
