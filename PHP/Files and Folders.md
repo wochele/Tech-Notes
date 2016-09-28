@@ -38,7 +38,9 @@ Filename: userImages/username2/TN/subfolder
 Filename: userImages/username2/TN/test2.jpg
 Filename: userImages/username2/TN/test4.gif
 Filename: userImages/username3/TN/styles.css
+```
 
+```php
 foreach(glob('userImages/*/TN/*.jpg') as $image) {	
 	echo "Filename: " . $image . "<br />";	
 }
