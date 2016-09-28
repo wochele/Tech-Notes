@@ -59,7 +59,7 @@ echo 'Hello ' . htmlspecialchars($_GET["name"]) . '!';
 ### View variable values for troubleshooting
 
 ```php
-<?php print_r($_GET);?> // Place at top of page
+<pre><?php print_r($_GET);?></pre> // Place at top of page
 ```
 
 ### Get Method
