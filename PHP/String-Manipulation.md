@@ -12,6 +12,15 @@
 
 `strlen($var);` - Returns length of the string $var
 
+#### Get last character of a string
+
+```php
+substr($string, -1) 
+
+// Or with direct string access
+$string[strlen($string)-1];
+```
+
 #### String position
 
 `strpos($var, $strtosearch[,OFFSET_OF_WHERE_TO_SEARCH])`
