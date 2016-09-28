@@ -21,7 +21,7 @@ require_once 'FILENAME.php';  //For class file because they can't be included mo
 echo getcwd() . "\n";
 ```
 
-### Using GLOB to Parse Filenames
+### Using `glob()` to Parse Filenames
 
 [Loop Through Folders with PHP's Glob](http://code.tutsplus.com/tutorials/quick-tip-loop-through-folders-with-phps-glob--net-11274)
 
@@ -49,7 +49,7 @@ Filename: userImages/username1/TN/test3.jpg
 Filename: userImages/username2/TN/test2.jpg
 ```
 
-### Using an argument with GLOB
+### Using an argument with `glob()`
 
 - *GLOB_MARK*: Adds a slash to each directory returned
 - *GLOB_NOSORT*: Return files as they appear in the directory (no sorting)
