@@ -56,14 +56,20 @@ Static variables declared inside a function keep their value between function ca
 echo 'Hello ' . htmlspecialchars($_GET["name"]) . '!';
 ```
 
-#### Get Method
+### View variable values for troubleshooting
+
+```php
+<?php print_r($_GET);?> // Place at top of page
+```
+
+### Get Method
 
     /test/demo_form.asp?name1=value1&name2=value2
 
 - Length restrictions
 - Can be bookmarked
 
-#### Post Method
+### Post Method
 
 - No length restrictions
 - Cannot be bookmarked
