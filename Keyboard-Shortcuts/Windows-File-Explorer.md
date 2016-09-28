@@ -1,4 +1,4 @@
-# Windows File Explorer
+# Windows File Explorer Keyboard Shortcuts
 
 Shortcut | Key(s)
 --- | ---
