@@ -1,6 +1,7 @@
 # Form
 
-[Form tutorial](http://www.tutorialspoint.com/html/html_forms.htm)
+- [Form tutorial](http://www.tutorialspoint.com/html/html_forms.htm)
+- [Forms guide - Mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms)
 
 ```html
 <form action="Script URL" method="GET|POST">
