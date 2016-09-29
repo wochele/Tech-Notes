@@ -31,3 +31,22 @@ method | Method to upload, typically POST or GET
         - **name** - Used to give a name to the control which is sent to the server to be recognized and get the value.
         - **rows** - Indicates the number of rows of text area box.
         - **cols** - Indicates the number of columns of text area box
+        
+#### Example
+
+```html
+<form action="/my-handling-form-page" method="post">
+    <div>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="user_name" />
+    </div>
+    <div>
+        <label for="mail">E-mail:</label>
+        <input type="email" id="mail" name="user_mail" />
+    </div>
+    <div>
+        <label for="msg">Message:</label>
+        <textarea id="msg" name="user_message"></textarea>
+    </div>
+</form>
+```
