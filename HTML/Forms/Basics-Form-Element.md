@@ -2,6 +2,7 @@
 
 - [Form tutorial](http://www.tutorialspoint.com/html/html_forms.htm)
 - [Forms guide - Mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms)
+- [How to structure an HTML form](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/How_to_structure_an_HTML_form)
 
 ```html
 <form action="Script URL" method="GET|POST">
