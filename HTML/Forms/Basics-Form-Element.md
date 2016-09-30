@@ -15,9 +15,9 @@ Add widgets with the `<label>`, `<input>`, and `<textarea>` elements
 #### Form Attributes
 
 | Attribute | Description |
-|---|---|
-|action | Backend script ready to process your passed data |
-|method | Method to upload, typically POST or GET |
+| --- | --- |
+| action | Backend script ready to process your passed data |
+| method | Method to upload, typically POST or GET |
 
 #### Text input
 
