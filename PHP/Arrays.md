@@ -7,6 +7,12 @@ $stack = array["orange", "banana"];
 array_push[$stack, "apple", "raspberry"];
 ```
 
+### Get last item of array
+
+```php
+end( $arr );
+```
+
 ### Check if value exists in array
 
 `in_array($valueToFind, $array[,$typeSame])` - $typeSame is a bool
