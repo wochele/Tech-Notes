@@ -1,6 +1,8 @@
 # Control Structures
 
-#### For-Each loop
+- [Alternative Syntac for Control Structures](http://php.net/manual/en/control-structures.alternative-syntax.php)
+
+### For-Each loop
 
 ```php
 foreach($array as $item) {
