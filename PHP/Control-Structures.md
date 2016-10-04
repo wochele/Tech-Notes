@@ -1,6 +1,6 @@
 # Control Structures
 
-- [Alternative Syntac for Control Structures](http://php.net/manual/en/control-structures.alternative-syntax.php)
+- [Alternative Syntax for Control Structures](http://php.net/manual/en/control-structures.alternative-syntax.php)
 
 ### For-Each loop
 
