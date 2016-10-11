@@ -1,9 +1,11 @@
 # Client Management
 
+- [Register A Client](#Register-Client)
 - [Activating A Client](#Activate-Client)
 - [Retiring A Client](#Retire-Client)
 - [Deleting A Client](#Delete-Client)
 
+<a name="Register-Client"></a>
 ### Register client in Avamar Administrator
 
 1. In Avamar Administrator, click the Administration launcher button.
