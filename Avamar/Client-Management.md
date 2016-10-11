@@ -1,5 +1,7 @@
 # Client Management
 
+- [Activating A Client](#Activate-Client)
+- [Retiring A Client](#Retire-Client)
 - [Deleting A Client](#Delete-Client)
 
 ### Register client in Avamar Administrator
@@ -37,6 +39,7 @@ A confirmation message appears.
 
 ![client install](Pics/Avamar-Client-Install-07.png)
 
+<a name="Activate-Client"></a>
 ### Activating a client
 
 Client activation is the process of passing the client ID (CID) back to the client, where it is
@@ -77,6 +80,7 @@ server.
 
 - Once this is complete, the client should be in the Avamar Administrator
 
+<a name="Retire-Client"></a>
 ### Retiring a client
 
 When you retire a client, Avamar stops running backups of the client. Avamar uses the
