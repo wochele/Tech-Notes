@@ -1,6 +1,7 @@
 # Client Management
 
 - [Register A Client](#Register-Client)
+- [Install Windows Client](#Install)
 - [Activating A Client](#Activate-Client)
 - [Retiring A Client](#Retire-Client)
 - [Deleting A Client](#Delete-Client)
@@ -25,6 +26,7 @@ location in the remaining fields of the New Client dialog box.
 A confirmation message appears.
 9. Click OK.
 
+<a name="Install"></a>
 ### Install Windows Client
 
 ![client install](Pics/Avamar-Client-Install-01.png)
