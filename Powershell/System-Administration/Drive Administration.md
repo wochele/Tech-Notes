@@ -4,6 +4,10 @@
 
 Use `New-PSDrive` with the `-Persist` parameter to create drives which are visible in the file explorer
 
+```powershell
+New-PSDrive -Name deploy -PSProvider filesystem -root \\server_name\c$\Deploy
+```
+
 #### PSDrive
 
 - A PSDrive is a single provider to connect to data storage (disks and a whole lot more)
