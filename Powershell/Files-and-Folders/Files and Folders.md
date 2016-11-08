@@ -6,6 +6,7 @@
 - [Text File Tricks: Tail and Wait](https://blogs.technet.microsoft.com/heyscriptingguy/2013/02/24/weekend-scripter-two-way-cool-powershell-text-file-tricks-tail-and-wait/)
 - [About Parsing](https://technet.microsoft.com/en-us/library/hh847892.aspx)
 - [How To Build Events On New Files With WMI Events](http://www.tomsitpro.com/articles/build-events-wmi-events-powershell,2-12.html)
+- [Testing Files and Folders](http://community.idera.com/powershell/powertips/b/tips/posts/testing-files-and-folders-separately)
 
 ### Append to a file
 
