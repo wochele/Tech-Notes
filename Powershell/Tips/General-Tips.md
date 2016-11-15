@@ -4,7 +4,9 @@
 - [Open the current path in the file explorer](#open)
 - [Open File Explorer in Current Folder](#file)
 
+
 - `~` represents the current user's home directory, for example `C:\Users\Administrator`
+
 
 <a name="distribute"></a>
 ### Distribution/Creating a custom repository
