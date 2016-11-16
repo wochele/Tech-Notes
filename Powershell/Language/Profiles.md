@@ -18,5 +18,27 @@ All users, Current Host - ISE  | $PsHome\Microsoft.PowerShellISE_profile.ps1
 ```powershell
 Set-Location C:\ScriptRepo
 $env:PSModulePath = "C:\ScriptRepo\Modules;" + $env:PSModulePath
+
+if ($host.Name -eq 'ConsoleHost')
+{
+	Import-Module PSReadline
+	Import-Module Posh-git
+}
+
+# Set Aliases -------------------------------------------------------------------------------------
+
+# Push - Pop folder locations
+# http://suhinini.blogspot.com/2010/03/using-push-location-and-pop-location-in.html
+
+Set-Alias pd pushd
+Set-Alias ppd popd
+
+# Custom functions --------------------------------------------------------------------------------
+
+function gd
+{
+	Get-PSDrive -PSProvider FileSystem
+}
+
 ```
 
