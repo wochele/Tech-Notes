@@ -32,3 +32,4 @@ Explaining something you don't know makes you look like a fool (the interviewer 
 *edit: looked terrible, removed the numbers
 
 https://www.reddit.com/r/ITCareerQuestions/comments/5n5joa/questions_i_was_asked_during_my_interview_at_a/
+ 
