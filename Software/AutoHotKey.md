@@ -8,6 +8,7 @@
 ### Resources 
 
 - Download - [AutoHotKey - Automation for Windows](http://ahkscript.org/)
+- [Key List](https://www.autohotkey.com/docs/KeyList.htm)
 
 <a name="modify"></a>
 ### [Keyboard Modifiers](https://autohotkey.com/docs/Hotkeys.htm)
