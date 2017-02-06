@@ -6,4 +6,5 @@
 - Download selenium
   - `pip install selinium`
 - Download browser servers and put them in PATH
-- Install Selenium standalone server
+  - Use the 32-bit IE one, the 64-bit is slow on text input
+- Install Selenium standalone server java
