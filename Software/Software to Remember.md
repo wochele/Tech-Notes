@@ -16,3 +16,6 @@
   - [Angry IP Scanner](http://angryip.org/download/#windows)
 - Drive Maintenance
   - [WinDirStat](https://windirstat.net/)
+- Console
+  - [ConEmu](https://conemu.github.io/) - [PS Setup](https://blogs.endjin.com/2016/02/improve-your-windows-command-prompt-and-powershell-experience-with-conemu/)
+  
