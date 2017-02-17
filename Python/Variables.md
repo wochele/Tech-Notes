@@ -6,6 +6,7 @@
   - Can't begin with a number 
 - Are case sensitive
 - Use camel-case for Variable names (Not per PEP8)
+- Python uses references whenever variables must store values of mutable data types, such as lists or dictionaries.
 
 ### Global variables
 
