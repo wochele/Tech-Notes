@@ -5,6 +5,7 @@
   - Can be nested in other lists to create multidimensional arrays
   - Accessed by their position in the list 0 based
   - Can assign values by using the position `list[1] = x`
+  - When you assign a list to a variable, you are actually assigning a list reference to the variable.
 
 `words = ['hello', 'world', '!']`
 
