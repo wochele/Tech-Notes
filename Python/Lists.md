@@ -55,6 +55,8 @@
   - list.remove(item)
 - Reverse the objects in a list
   - list.reverse()
+- Sort items in a list
+  - list.sort()
   
 ### Iterate over items in a list
 
