@@ -1,5 +1,7 @@
 # [Outlook](http://www.shortcutworld.com/en/win/Outlook_2010.html)
 
+[MS Article](https://support.office.com/en-us/article/Keyboard-shortcuts-for-Outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd?ui=en-US&rs=en-US&ad=US&fromAR=1)
+
 Shortcut | Key(s)
 --- | ---
 Send Mail	 | `CTL+S`
