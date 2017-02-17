@@ -4,8 +4,9 @@
 
 Shortcut | Description
 ---|---
+`CTL+SHIFT+B` | Run task
 ``CTL + ` `` | Toggle console
-`CTL + SHIFT + U | Toggle output pane
+`CTL + SHIFT + U` | Toggle output pane
 `CTL + / ` | Toggle comment
 `ALT + CLICK` | add additional cursor
 `CTL + SHIFT + G` | Show Git
