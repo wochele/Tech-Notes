@@ -4,6 +4,8 @@
 
 Shortcut | Key(s)
 --- | ---
+Open Folder View | CTL+Y
+Switch to inbox | CTL+SHIFT+I
 Send Mail	 | `CTL+S`
 Open a New Appointment	 | `CTL+SHIFT+A`
 Open a New Task	 | `CTL+SHIFT+K`
