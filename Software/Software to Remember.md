@@ -18,4 +18,5 @@
   - [WinDirStat](https://windirstat.net/)
 - Console
   - [ConEmu](https://conemu.github.io/) - [PS Setup](https://blogs.endjin.com/2016/02/improve-your-windows-command-prompt-and-powershell-experience-with-conemu/)
-  
+- SQL
+  - [SQL Search](https://www.red-gate.com/products/sql-development/sql-search/)
