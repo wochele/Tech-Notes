@@ -2,6 +2,7 @@
 
 Shortcut | Key(s)
 --- | ---
+Select active cells | CTL+A
 Edit Current Cell	 | F2
 Move to Next Sheet	 | CTL+PGDN
 Move to Previous Sheet	 | CTL+PGUP
