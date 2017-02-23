@@ -10,6 +10,7 @@
   - [Selenium - Browser automation/testing](http://www.seleniumhq.org/)
 - Screen capture
   - [GreenShot](http://getgreenshot.org/)
+  - [ScreenPresso](https://www.screenpresso.com/)
 - Telnet/SSH
   - [mRemoteNG](http://mremoteng.org)
 - Networking
