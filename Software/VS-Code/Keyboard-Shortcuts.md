@@ -5,6 +5,8 @@
 Shortcut | Description
 ---|---
 `CTL+SHIFT+B` | Run task
+`CTL+SHIFT+V` | Switch between markdown file and view
+`CTL+K V` | Side-by-side preview of file thats being edited
 ``CTL + ` `` | Toggle console
 `CTL + SHIFT + U` | Toggle output pane
 `CTL + / ` | Toggle comment
